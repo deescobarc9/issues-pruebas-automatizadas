@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Descripción del bug**
+## **Descripción del bug**
 A clear and concise description of what the bug is.
 
 **Comportamiento esperado**
 
-**Comportamiento actual*
+**Comportamiento actual**
 
 **Pasos a reproducir**
 Steps to reproduce the behavior:
@@ -25,10 +25,10 @@ Steps to reproduce the behavior:
 If applicable, add screenshots to help explain your problem.
 
 ** Contexto (Ambiente de ejecución:**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - App versión:
+ - OS: 
+ - Browser:
+ - Version:
 
 **Información adicional**
 Add any other context about the problem here.
