@@ -23,7 +23,7 @@ A clear and concise description of what the bug is.
 ## **Evidencias**
 If applicable, add screenshots to help explain your problem.
 
-## ** Contexto (Ambiente de ejecución:**
+## ** Contexto (Ambiente de ejecución): **
  - App versión:
  - OS: 
  - Browser:
