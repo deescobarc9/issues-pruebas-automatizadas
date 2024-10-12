@@ -10,25 +10,24 @@ assignees: ''
 ## **Descripción del bug**
 A clear and concise description of what the bug is.
 
-**Comportamiento esperado**
+## **Comportamiento esperado**
 
-**Comportamiento actual**
+## **Comportamiento actual**
 
-**Pasos a reproducir**
-Steps to reproduce the behavior:
+## **Pasos a reproducir**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Evidencias**
+## **Evidencias**
 If applicable, add screenshots to help explain your problem.
 
-** Contexto (Ambiente de ejecución:**
+## ** Contexto (Ambiente de ejecución:**
  - App versión:
  - OS: 
  - Browser:
  - Version:
 
-**Información adicional**
+## **Información adicional**
 Add any other context about the problem here.
